@@ -5,4 +5,4 @@
 
 - 👀  I’m currently working in the College of Electrical and Information Engineering, Hunan University, Changsha, China as an Researcher associate anf Post-doctoral Researcher. I am interested in developing advanced signal/image processing and machine learning algorithms for remote sensing image processing (e.g., image restoration, image enhancement, scene classification, multi-modal information fusion,  object detection, ...). 
 
-🔗 [Personal Homepage]() 🔗 [Google Scholar](https://scholar.google.ch/citations?user=IYUlx_8AAAAJ&hl=en)
+🔗 [Personal Homepage](https://puhongduan.github.io/) 🔗 [Google Scholar](https://scholar.google.ch/citations?user=IYUlx_8AAAAJ&hl=en)
